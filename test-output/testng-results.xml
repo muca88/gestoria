@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="67135" started-at="2020-11-07T02:47:54Z" finished-at="2020-11-07T02:49:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="67135" started-at="2020-11-07T02:47:54Z" finished-at="2020-11-07T02:49:01Z">
+      <class name="simi.gestoria.test.Gestoria_Test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="setup" is-config="true" duration-ms="14847" started-at="2020-11-06T20:47:54Z" finished-at="2020-11-06T20:48:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Gestoria()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="Gestoria" duration-ms="52273" started-at="2020-11-06T20:48:08Z" finished-at="2020-11-06T20:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Gestoria -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-11-06T20:49:01Z" finished-at="2020-11-06T20:49:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- simi.gestoria.test.Gestoria_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,697 @@
+2020-11-03 12:00:20,004 - RegisterPage -INFO - Captura de usuario
+2020-11-03 12:00:20,154 - RegisterPage -INFO - Captura de contraseña
+2020-11-03 12:00:24,941 - RegisterPage -INFO - Inicio de sesion
+2020-11-03 12:00:24,985 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-03 12:00:27,358 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-03 12:00:28,227 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,310 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,389 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,456 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,532 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,606 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,682 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,753 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,824 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:28,915 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:00:29,097 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,170 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,251 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,321 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,404 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,467 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,528 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,595 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,661 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,724 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:00:29,883 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:29,946 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,008 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,069 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,130 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,195 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,258 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,317 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,376 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,439 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:00:30,600 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,656 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,714 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,771 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,828 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,884 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:30,944 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:31,004 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:31,058 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:31,120 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:00:31,274 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,331 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,397 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,463 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,534 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,599 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:31,663 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:00:33,051 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-03 12:00:33,444 - PermissionSearchPage -INFO - --La solicitud se encontro en la pagina 5 fila 8
+2020-11-03 12:00:33,643 - ApplicationRecordPage -INFO - Ingreso a la opcionRegistro solicitud unidad de negocio
+2020-11-03 12:00:35,414 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-03 12:04:08,197 - RegisterPage -INFO - Captura de usuario
+2020-11-03 12:04:08,309 - RegisterPage -INFO - Captura de contraseña
+2020-11-03 12:04:10,596 - RegisterPage -INFO - Inicio de sesion
+2020-11-03 12:04:10,642 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-03 12:04:11,785 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-03 12:04:12,381 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,484 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,559 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,642 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,727 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,819 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,897 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:12,968 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:13,064 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:13,154 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-03 12:04:13,348 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,413 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,491 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,576 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,641 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,709 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,784 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,848 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:13,924 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:14,006 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-03 12:04:14,160 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,228 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,293 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,357 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,420 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,482 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,543 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,604 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,666 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,744 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-03 12:04:14,928 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:14,993 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,052 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,110 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,164 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,229 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,292 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,358 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,422 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,502 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-03 12:04:15,653 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:15,715 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:15,777 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:15,840 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:15,903 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:15,968 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:16,033 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-03 12:04:16,194 - PermissionSearchPage -INFO - --La solicitud se encontro en la pagina 5 fila 8
+2020-11-03 12:04:17,413 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-03 12:04:17,966 - ApplicationRecordPage -INFO - Ingreso a la opcionRegistro solicitud unidad de negocio
+2020-11-03 12:04:18,523 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-03 12:04:18,766 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-03 12:04:19,507 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-03 12:04:19,794 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-04 11:10:45,345 - RegisterPage -INFO - Captura de usuario
+2020-11-04 11:10:45,806 - RegisterPage -INFO - Captura de contraseña
+2020-11-04 11:10:56,069 - RegisterPage -INFO - Inicio de sesion
+2020-11-04 11:10:56,118 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-04 11:10:57,785 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-04 11:10:58,869 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:10:59,176 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:10:59,451 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:10:59,765 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:00,010 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:00,197 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:00,496 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:00,839 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:01,100 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:01,343 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:11:01,950 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:02,209 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:02,470 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:02,822 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:03,088 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:03,360 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:03,614 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:03,842 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:04,142 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:04,374 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:11:04,939 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:05,231 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:05,436 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:05,622 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:05,844 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:06,085 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:06,387 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:06,761 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:07,092 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:07,320 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:11:07,940 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:08,201 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:08,481 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:08,767 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:09,089 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:09,417 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:09,726 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:10,060 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:10,328 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:10,744 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:11:11,458 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:11,803 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:12,097 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:12,393 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:12,635 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:12,918 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:13,157 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:11:13,762 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 11:11:15,438 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-04 11:11:16,495 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-04 11:11:18,873 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-04 11:11:19,619 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-04 11:11:21,210 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-04 11:11:21,592 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-04 11:19:44,745 - RegisterPage -INFO - Captura de usuario
+2020-11-04 11:19:45,005 - RegisterPage -INFO - Captura de contraseña
+2020-11-04 11:19:52,559 - RegisterPage -INFO - Inicio de sesion
+2020-11-04 11:19:52,657 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-04 11:19:55,617 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-04 11:19:56,290 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:56,390 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:56,527 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:56,648 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:56,811 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:56,902 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:57,017 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:57,128 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:57,307 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:57,475 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:19:57,771 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:57,883 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:57,984 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,178 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,266 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,364 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,450 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,542 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,656 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:58,798 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:19:59,030 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,160 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,268 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,412 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,516 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,598 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,689 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,794 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:19:59,897 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:00,089 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:00,331 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,436 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,523 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,610 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,716 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,802 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:00,965 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:01,240 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:01,314 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:01,402 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:01,642 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:01,726 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:01,843 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:01,939 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:02,049 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:02,135 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:02,221 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:02,517 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 11:20:03,578 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-04 11:20:04,237 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-04 11:20:05,280 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-04 11:20:05,538 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-04 11:20:06,434 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-04 11:20:06,974 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-04 11:20:07,654 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:07,799 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:07,992 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:08,087 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:08,295 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:08,452 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:08,706 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:08,976 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:09,105 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:09,283 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:20:10,029 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:10,333 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:10,571 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:10,782 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:11,137 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:11,427 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:11,652 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:11,815 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:12,025 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:12,302 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:20:13,008 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,173 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,387 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,476 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,590 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,734 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:13,838 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:14,001 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:14,074 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:14,213 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:20:14,589 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:14,662 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:14,915 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,130 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,380 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,458 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,657 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,765 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:15,933 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:16,033 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:20:16,349 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:16,509 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:16,602 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:16,852 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:16,974 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:17,169 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:17,260 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:20:17,548 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 11:20:19,684 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-04 11:28:51,984 - RegisterPage -INFO - Captura de usuario
+2020-11-04 11:28:52,246 - RegisterPage -INFO - Captura de contraseña
+2020-11-04 11:28:59,389 - RegisterPage -INFO - Inicio de sesion
+2020-11-04 11:28:59,444 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-04 11:29:01,342 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-04 11:29:02,558 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:02,660 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:02,797 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:02,940 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,039 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,222 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,442 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,578 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,735 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:03,899 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:04,257 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:04,388 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:04,577 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:04,781 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:04,857 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:04,949 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:05,133 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:05,244 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:05,340 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:05,500 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:05,886 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,015 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,151 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,337 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,411 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,481 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,631 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,704 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,805 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:06,910 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:07,203 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,286 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,365 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,470 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,545 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,662 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,770 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,867 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:07,944 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:08,022 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:08,266 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,361 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,435 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,532 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,675 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,743 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,806 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:08,976 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 11:29:09,755 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-04 11:29:10,380 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-04 11:29:11,215 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-04 11:29:11,481 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-04 11:29:12,595 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-04 11:29:12,852 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-04 11:29:13,392 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,453 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,546 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,626 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,697 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,783 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:13,900 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:14,058 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:14,126 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:14,205 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 11:29:14,383 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,456 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,530 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,599 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,667 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,729 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,800 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,881 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:14,950 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:15,040 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 11:29:15,240 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,295 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,370 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,437 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,504 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,571 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,648 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,723 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,810 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:15,873 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 11:29:16,118 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,212 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,295 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,367 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,458 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,541 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,687 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,755 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,854 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:16,996 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 11:29:17,216 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,297 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,429 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,506 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,588 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,701 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,758 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 11:29:17,978 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 11:29:19,548 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-04 12:15:20,811 - RegisterPage -INFO - Captura de usuario
+2020-11-04 12:15:20,949 - RegisterPage -INFO - Captura de contraseña
+2020-11-04 12:15:25,825 - RegisterPage -INFO - Inicio de sesion
+2020-11-04 12:15:25,906 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-04 12:15:28,017 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-04 12:15:29,044 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,163 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,256 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,450 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,576 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,701 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,852 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:29,949 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:30,168 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:30,261 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:15:30,622 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:30,845 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:30,931 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,003 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,217 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,341 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,451 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,566 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,715 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:31,852 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:15:32,073 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:32,168 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:32,281 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:32,350 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:32,548 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:32,869 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:33,114 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:33,337 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:33,572 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:33,961 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:15:34,216 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,306 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,390 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,477 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,553 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,626 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,721 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:34,911 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:35,029 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:35,116 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:15:35,312 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,483 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,553 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,680 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,796 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,868 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:35,953 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:15:36,129 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 12:15:37,233 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-04 12:17:39,027 - RegisterPage -INFO - Captura de usuario
+2020-11-04 12:17:39,323 - RegisterPage -INFO - Captura de contraseña
+2020-11-04 12:17:42,076 - RegisterPage -INFO - Inicio de sesion
+2020-11-04 12:17:42,193 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-04 12:17:44,139 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-04 12:17:44,727 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:44,808 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:44,900 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:44,997 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,128 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,229 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,311 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,431 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,527 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,653 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:45,927 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,021 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,109 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,313 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,438 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,542 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,611 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,724 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:46,837 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:47,019 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:47,437 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:47,638 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:47,910 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,062 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,305 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,498 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,593 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,724 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,828 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:48,975 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:49,193 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,280 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,366 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,469 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,563 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,657 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,835 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:49,978 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:50,056 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:50,131 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:50,353 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:50,516 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:50,592 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:50,756 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:50,819 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:50,916 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:51,004 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:51,192 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 12:17:52,079 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-04 12:17:52,607 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-04 12:17:53,420 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-04 12:17:53,830 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-04 12:17:54,864 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-04 12:17:55,054 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-04 12:17:55,591 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:55,653 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:55,721 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:55,793 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:55,859 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:55,947 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:56,032 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:56,162 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:56,234 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:56,299 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 1
+2020-11-04 12:17:56,517 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,581 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,643 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,711 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,771 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,845 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:56,973 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:57,029 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:57,087 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:57,148 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 2
+2020-11-04 12:17:57,359 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,420 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,493 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,575 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,649 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,716 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,770 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:57,842 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:58,047 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:58,103 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 3
+2020-11-04 12:17:58,262 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,331 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,541 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,609 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,690 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,744 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,805 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,870 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:58,929 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:59,052 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 4
+2020-11-04 12:17:59,259 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,312 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,403 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,460 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,564 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,621 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,676 - PermissionSearchPage -INFO - La solicitud no se encontro en la pagina 5
+2020-11-04 12:17:59,843 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 5 fila 8
+2020-11-04 12:18:00,786 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-04 12:18:01,328 - PermissionRecordPage -INFO - Ingreso a Registro de permiso
+2020-11-04 12:18:02,451 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
+2020-11-04 12:18:02,624 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
+2020-11-04 12:18:02,701 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
+2020-11-05 17:11:20,484 - RegisterPage -INFO - Captura de usuario
+2020-11-05 17:11:20,589 - RegisterPage -INFO - Captura de contraseña
+2020-11-05 17:17:18,492 - RegisterPage -INFO - Captura de usuario
+2020-11-05 17:17:18,629 - RegisterPage -INFO - Captura de contraseña
+2020-11-05 17:29:17,894 - RegisterPage -INFO - Captura de usuario
+2020-11-05 17:29:18,012 - RegisterPage -INFO - Captura de contraseña
+2020-11-05 17:29:25,464 - RegisterPage -INFO - Inicio de sesion
+2020-11-05 17:29:25,512 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-05 17:29:27,624 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-05 17:29:28,167 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-05 17:29:28,241 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-05 17:29:28,335 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-05 17:46:38,553 - RegisterPage -INFO - Captura de usuario
+2020-11-05 17:46:38,672 - RegisterPage -INFO - Captura de contraseña
+2020-11-05 17:46:41,827 - RegisterPage -INFO - Inicio de sesion
+2020-11-05 17:46:41,872 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-05 17:46:43,680 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-05 17:46:44,323 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-05 17:46:44,407 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-05 17:46:44,504 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 09:16:51,683 - RegisterPage -INFO - Captura de usuario
+2020-11-06 09:16:51,806 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 09:17:00,050 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 09:17:00,097 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 09:17:01,251 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 09:17:01,788 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 09:17:01,869 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 09:17:01,958 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 09:18:55,679 - RegisterPage -INFO - Captura de usuario
+2020-11-06 09:18:55,820 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 09:19:02,996 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 09:19:03,095 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 09:19:04,062 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 09:19:04,631 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 09:19:04,721 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 09:19:04,820 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 09:28:57,044 - RegisterPage -INFO - Captura de usuario
+2020-11-06 09:28:57,167 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 09:29:01,459 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 09:29:01,575 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 09:29:05,590 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 09:29:06,325 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 09:29:06,450 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 09:29:06,553 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 09:31:27,709 - RegisterPage -INFO - Captura de usuario
+2020-11-06 09:31:27,820 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 09:31:33,099 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 09:31:33,183 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 09:31:38,318 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 09:31:38,890 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 09:31:38,979 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 09:31:39,082 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 09:34:06,233 - RegisterPage -INFO - Captura de usuario
+2020-11-06 09:34:06,348 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 09:34:10,497 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 09:34:10,539 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 09:34:12,665 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 09:34:13,303 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 09:34:13,396 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 09:34:13,498 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 20:14:01,515 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:14:01,648 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:14:12,314 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:14:12,364 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:14:15,990 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 20:14:16,684 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 20:14:16,774 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 20:14:16,875 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 20:15:14,320 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:15:14,444 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:15:22,632 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:15:22,683 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:15:24,494 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-06 20:15:25,162 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-06 20:15:25,258 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-06 20:15:25,357 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-06 20:15:26,637 - ApplicationRecordPage -INFO - Selecciona tipo de solicitud
+2020-11-06 20:15:27,138 - ApplicationRecordPage -INFO - Selecciona boton guardar registro solicitud de negocio
+2020-11-06 20:15:28,356 - ApplicationRecordPage -INFO - La solicitud se guardo exitosamente
+2020-11-06 20:21:56,166 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:21:56,281 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:22:00,126 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:22:00,185 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:22:02,685 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-06 20:22:03,683 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:22:05,428 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-06 20:37:57,763 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:37:57,893 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:38:04,784 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:38:04,835 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:38:17,535 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-06 20:38:18,811 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:38:21,919 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-06 20:40:28,431 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:40:28,567 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:40:46,766 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:40:46,833 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:40:54,220 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-06 20:40:55,368 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:41:01,679 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-06 20:41:02,458 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-06 20:41:03,105 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-06 20:41:03,316 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-06 20:41:06,536 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-06 20:41:06,716 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-06 20:43:44,215 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:43:44,342 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:43:55,272 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:43:55,321 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:43:58,787 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-06 20:44:01,880 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:44:05,653 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-06 20:44:06,235 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-06 20:44:06,837 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-06 20:44:07,050 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-06 20:44:11,601 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-06 20:44:11,873 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-06 20:44:13,086 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:44:20,743 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-06 20:44:21,364 - PermissionRecordPage -INFO - Ingreso a Registro de permiso
+2020-11-06 20:44:22,621 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
+2020-11-06 20:44:22,771 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
+2020-11-06 20:44:22,858 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
+2020-11-06 20:48:09,898 - RegisterPage -INFO - Captura de usuario
+2020-11-06 20:48:10,025 - RegisterPage -INFO - Captura de contraseña
+2020-11-06 20:48:20,804 - RegisterPage -INFO - Inicio de sesion
+2020-11-06 20:48:20,852 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-06 20:48:37,554 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-06 20:48:38,914 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:48:41,642 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-06 20:48:42,230 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-06 20:48:42,857 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-06 20:48:43,081 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-06 20:48:45,055 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-06 20:48:45,249 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-06 20:48:46,671 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-06 20:48:49,240 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-06 20:48:49,847 - PermissionRecordPage -INFO - Ingreso a Registro de permiso
+2020-11-06 20:48:51,098 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
+2020-11-06 20:48:51,229 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
+2020-11-06 20:48:51,328 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado

@@ -1,0 +1,13 @@
+simi\gestoria\page\ApplicationRecordPage.class
+simi\gestoria\resources\Conexion.class
+simi\gestoria\base\Base.class
+simi\gestoria\resources\DataSheet.class
+simi\gestoria\page\RegisterPage.class
+simi\gestoria\resources\Log.class
+simi\gestoria\page\AssignManagerStatusPage.class
+simi\gestoria\resources\ScreenRecorderUtil.class
+simi\gestoria\base\Base$1.class
+simi\gestoria\resources\Screenshot.class
+simi\gestoria\page\PermissionRecordPage.class
+simi\gestoria\test\Gestoria_Test.class
+simi\gestoria\page\PermissionSearchPage.class
