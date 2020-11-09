@@ -60,10 +60,10 @@ public class PermissionRecordPage extends PermissionSearchPage {
 		ingresoPagina();
 		selectDropdownList(selectionPermisoLocator, dataSheet.getCellValue(19, 1));
 		documentoInicioTramite(dataSheet.getCellValue(22, 1), dataSheet.getCellValue(23, 1), dataSheet.getCellValue(24, 1));
-		documentoPermiso(dataSheet.getCellValue(22, 1), dataSheet.getCellValue(22, 1), dataSheet.getCellValue(22, 1), 
-						dataSheet.getCellValue(22, 1), dataSheet.getCellValue(22, 1), dataSheet.getCellValue(22, 1),
-						dataSheet.getCellValue(22, 1), dataSheet.getCellValue(22, 1));
-		recibo();
+		documentoPermiso(dataSheet.getCellValue(27,1),dataSheet.getCellValue(28,1),dataSheet.getCellValue(29,1),dataSheet.getCellValue(30,1)
+						,dataSheet.getCellValue(31,1),dataSheet.getCellValue(32,1),dataSheet.getCellValue(33,1),dataSheet.getCellValue(34,1));
+		recibo(dataSheet.getCellValue(37,1),dataSheet.getCellValue(38,1),dataSheet.getCellValue(39,1)
+				,dataSheet.getCellValue(40,1),dataSheet.getCellValue(41,1),dataSheet.getCellValue(42,1));
 		factura();
 		type("Observaciones prueba", textObservacionesLocator);
 		selectDropdownList(listEstatusLocator, "INGRESADO");
@@ -99,7 +99,7 @@ public class PermissionRecordPage extends PermissionSearchPage {
 				ingresoPagina();
 				//documentoInicioTramite();
 				//documentoPermiso();
-				recibo();
+				//recibo();
 				factura();
 				type("Observaciones prueba", textObservacionesLocator);
 				selectDropdownList(listEstatusLocator, "INGRESADO");
@@ -141,33 +141,40 @@ public class PermissionRecordPage extends PermissionSearchPage {
 	public void documentoPermiso(String folio,String fecha,String fechaVigencia
 								,String tipoDocumento,String rfc,String razonSocial
 								,String responsiva,String documento) {
-		type("001", textFolioDocumentoPermisoLocator);
+		type(folio, textFolioDocumentoPermisoLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura folio");
-		type("21-09-2020", dateFechaDocumentoPermisoLocator);
+		type(fecha, dateFechaDocumentoPermisoLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura fecha");
-		type("28-09-2020", dateFechaVigenciaDocumentoPermisoLocator);
-		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura fechaVigencia");
-		selectDropdownList(selectionTipoDocumentoDocumentoPermisoLocator, "ORIGINAL");
+		type(fechaVigencia, dateFechaVigenciaDocumentoPermisoLocator);
+		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura fecha vigencia");
+		selectDropdownList(selectionTipoDocumentoDocumentoPermisoLocator, tipoDocumento);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura tipo documento");
-		type("MUCP880820N58", textRFCLocator);
+		type(rfc, textRFCLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura rfc");
-		type("Razon Social Prueba", textRazonSocialLocator);
+		type(razonSocial, textRazonSocialLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura razon social");
-		type("Responsiva", textResponsivaLocator);
+		type(responsiva, textResponsivaLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura responsiva");
-		type("C:\\Users\\sispmunoz\\Desktop\\DocumentoPermiso.pdf", fileDocumentoPermisoLocator);
+		type(documento, fileDocumentoPermisoLocator);
 		log.logInfo("PermissionRecordPage","documentoPermiso -- Captura documento");
 		screenshot.CapturaImagenen();
 	}
 	
-	public void recibo() {
+	public void recibo(String folio,String tipoDocumento,String importe,String fecha,String metodoPago,String ruta) {
 		click(checkboxRecibo);
-		type("R001", textFolioReciboLocator);
-		selectDropdownList(listTipoDocumentoReciboLocator, "ORIGINAL");
-		type("1000", textImporteReciboLocator);
-		type("21-09-2020", dateFechaReciboLocator);
-		selectDropdownList(listMetodoPagoReciboLocator, "ORIGINAL");
-		type("C:\\Users\\sispmunoz\\Desktop\\DocumentoPermiso.pdf", fileReciboLocator);		
+		log.logInfo("PermissionRecordPage","recibo -- Opcion recibo");
+		type(folio, textFolioReciboLocator);
+		log.logInfo("PermissionRecordPage","recibo -- Captura folio");
+		selectDropdownList(listTipoDocumentoReciboLocator, tipoDocumento);
+		log.logInfo("PermissionRecordPage","recibo -- Captura tipo de documento");
+		type(importe, textImporteReciboLocator);
+		log.logInfo("PermissionRecordPage","recibo -- Captura importe");
+		type(fecha, dateFechaReciboLocator);
+		log.logInfo("PermissionRecordPage","recibo -- Captura fecha");
+		selectDropdownList(listMetodoPagoReciboLocator, metodoPago);
+		log.logInfo("PermissionRecordPage","recibo -- Captura metodo de pago");
+		type(ruta, fileReciboLocator);
+		log.logInfo("PermissionRecordPage","recibo -- Captura documento");
 	}
 	
 	public void factura() {

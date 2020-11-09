@@ -59,7 +59,7 @@ public class Gestoria_Test {
 	  //(14,1) Regresar -- (16,1) Gestor -- (17,1) Estatus
 	  assignManagerStatusPage.assignManagerStatus(dataSheet.getCellValue(14, 1), dataSheet.getCellValue(16, 1), dataSheet.getCellValue(17, 1));
 	  //Permiso
-	  //(9,1) permiso
+	  //(10,1) permiso
 	  permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(10, 1));
 	  permissionRecordPage = new PermissionRecordPage(driver);
 	  permissionRecordPage.addPermission();
