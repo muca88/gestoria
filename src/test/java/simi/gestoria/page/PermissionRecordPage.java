@@ -50,13 +50,11 @@ public class PermissionRecordPage extends PermissionSearchPage {
 	By permisoLocator = By.xpath("//div[@class='modal-content']/div[2]/div[2]/div[2]/i");
 	By reciboLocator = By.xpath("//div[@class='modal-content']/div[2]/div[3]/div[2]/i");
 	By facturaLocator = By.xpath("//div[@class='modal-content']/div[2]/div[4]/div[2]/i");
+	By buttonRegresarLocator = By.xpath("//form/div/div/a");	
 	
 	Screenshot screenshot =  new Screenshot(driver);
 	
 	public void addPermission() throws Exception {
-		
-		//selectionOptionBusquedaPermisoSucursal();	
-		//selectionOptionGestorPermiso(option);
 		ingresoPagina();
 		selectDropdownList(selectionPermisoLocator, dataSheet.getCellValue(19, 1));
 		documentoInicioTramite(dataSheet.getCellValue(22, 1), dataSheet.getCellValue(23, 1), dataSheet.getCellValue(24, 1));
@@ -64,54 +62,66 @@ public class PermissionRecordPage extends PermissionSearchPage {
 						,dataSheet.getCellValue(31,1),dataSheet.getCellValue(32,1),dataSheet.getCellValue(33,1),dataSheet.getCellValue(34,1));
 		recibo(dataSheet.getCellValue(37,1),dataSheet.getCellValue(38,1),dataSheet.getCellValue(39,1)
 				,dataSheet.getCellValue(40,1),dataSheet.getCellValue(41,1),dataSheet.getCellValue(42,1));
-		factura();
-		type("Observaciones prueba", textObservacionesLocator);
-		selectDropdownList(listEstatusLocator, "INGRESADO");
+		factura(dataSheet.getCellValue(45,1),dataSheet.getCellValue(46,1),dataSheet.getCellValue(47,1)
+				,dataSheet.getCellValue(48,1),dataSheet.getCellValue(49,1),dataSheet.getCellValue(50,1));
+		type(dataSheet.getCellValue(52,1), textObservacionesLocator);
+		log.logInfo("PermissionRecordPage","Captura observasiones");
+		screenshot.CapturaImagenen();
+		selectDropdownList(listEstatusLocator, dataSheet.getCellValue(53,1));
+		screenshot.CapturaImagenen();
+		log.logInfo("PermissionRecordPage","Captura estatus");
 		click(buttonGuardarLocator);
+		screenshot.CapturaImagenen();
+		log.logInfo("PermissionRecordPage","Opcion guardar");
 		aceptarRegistroPermiso();	
 	} 
 	
-	public void optionsPerrmission(String optionTablePermisos,String detallePermisos,String solicitudIngresos) throws Exception {
+	public void optionsPerrmission(String optionTablePermisos,String solicitudIngresos) throws Exception {
 		
 		if (optionTablePermisos.equals("detalle")) {
-			
-			selectionOptionBusquedaPermisoSucursal();	
-			selectionOptionGestorPermiso(detallePermisos);//Detalle permisoa
 			optionsTablePermisos(optionTablePermisos, solicitudIngresos);
 			click(buttonCerrarLocator);
 			
 		} else if (optionTablePermisos.equals("editar")) {
-			selectionOptionBusquedaPermisoSucursal();	
-			selectionOptionGestorPermiso(detallePermisos);//Detalle permisoa
 			optionsTablePermisos("detalle", solicitudIngresos);
-			
 			if (getAttributeStyle(inicioTramiteLocator).equals("visibility: visible;")
 				||getAttributeStyle(permisoLocator).equals("visibility: visible;")
 				||getAttributeStyle(reciboLocator).equals("visibility: visible;")
 				||getAttributeStyle(facturaLocator).equals("visibility: visible;")) {
 				click(buttonCerrarLocator);
+				log.logInfo("PermissionRecordPage","Opcion cerrar");
+				log.logInfo("PermissionRecordPage","El permiso tiene informacion guardada");
+				optionsTablePermisos(optionTablePermisos, solicitudIngresos);
+				click(buttonRegresarLocator);
+				log.logInfo("PermissionRecordPage","Opcion regresar");
+				screenshot.CapturaImagenen();
 			}else {
 				
 				click(buttonCerrarLocator);
-				//selectionOptionBusquedaPermisoSucursal();	
-				//selectionOptionGestorPermiso(detallePermisos);//Detalle permisoa
+				log.logInfo("PermissionRecordPage","Opcion cerrar");
+				log.logInfo("PermissionRecordPage","El permiso no tiene informacion guardada");
 				optionsTablePermisos(optionTablePermisos, solicitudIngresos);
-				ingresoPagina();
-				//documentoInicioTramite();
-				//documentoPermiso();
-				//recibo();
-				factura();
-				type("Observaciones prueba", textObservacionesLocator);
-				selectDropdownList(listEstatusLocator, "INGRESADO");
+				documentoInicioTramite(dataSheet.getCellValue(22, 1), dataSheet.getCellValue(23, 1), dataSheet.getCellValue(24, 1));
+				documentoPermiso(dataSheet.getCellValue(27,1),dataSheet.getCellValue(28,1),dataSheet.getCellValue(29,1),dataSheet.getCellValue(30,1)
+								,dataSheet.getCellValue(31,1),dataSheet.getCellValue(32,1),dataSheet.getCellValue(33,1),dataSheet.getCellValue(34,1));
+				recibo(dataSheet.getCellValue(37,1),dataSheet.getCellValue(38,1),dataSheet.getCellValue(39,1)
+						,dataSheet.getCellValue(40,1),dataSheet.getCellValue(41,1),dataSheet.getCellValue(42,1));
+				factura(dataSheet.getCellValue(45,1),dataSheet.getCellValue(46,1),dataSheet.getCellValue(47,1)
+						,dataSheet.getCellValue(48,1),dataSheet.getCellValue(49,1),dataSheet.getCellValue(50,1));
+				type(dataSheet.getCellValue(52,1), textObservacionesLocator);
+				log.logInfo("PermissionRecordPage","Captura observasiones");
+				screenshot.CapturaImagenen();
+				selectDropdownList(listEstatusLocator, dataSheet.getCellValue(53,1));
+				screenshot.CapturaImagenen();
+				log.logInfo("PermissionRecordPage","Captura estatus");
 				click(buttonGuardarLocator);
+				screenshot.CapturaImagenen();
+				log.logInfo("PermissionRecordPage","Opcion guardar");
 				aceptarRegistroPermiso();
 			}
 				
 		
 		} else if (optionTablePermisos.equals("eliminar")) {
-			
-			selectionOptionBusquedaPermisoSucursal();	
-			selectionOptionGestorPermiso(detallePermisos);//Detalle permisoa
 			optionsTablePermisos(optionTablePermisos, solicitudIngresos);
 			
 		}
@@ -175,30 +185,39 @@ public class PermissionRecordPage extends PermissionSearchPage {
 		log.logInfo("PermissionRecordPage","recibo -- Captura metodo de pago");
 		type(ruta, fileReciboLocator);
 		log.logInfo("PermissionRecordPage","recibo -- Captura documento");
+		screenshot.CapturaImagenen();
 	}
 	
-	public void factura() {
+	public void factura(String folio,String tipoDocumento,String importe,String fecha,String metodoPago,String ruta) {
 		click(checkboxFactura);
+		log.logInfo("PermissionRecordPage","factura -- Opcion factura");
 		type("F001", textFolioFacturaLocator);
+		log.logInfo("PermissionRecordPage","factura -- Captura folio");
 		selectDropdownList(listTipoDocumentoFacturaLocator, "ORIGINAL");
+		log.logInfo("PermissionRecordPage","factura -- Captura tipo de documento");
 		type("1000", textImporteFacturaLocator);
+		log.logInfo("PermissionRecordPage","factura -- Captura importe");
 		type("21-09-2020", dateFechaFacturaLocator);
+		log.logInfo("PermissionRecordPage","factura -- Captura fecha");
 		selectDropdownList(listMetodoPagoFacturaLocator, "ORIGINAL");
+		log.logInfo("PermissionRecordPage","factura -- Captura metodo de pago");
 		type("C:\\Users\\sispmunoz\\Desktop\\DocumentoPermiso.pdf", fileFacturaLocator);
+		log.logInfo("PermissionRecordPage","factura -- Captura documento");
+		screenshot.CapturaImagenen();
 	}
 	
 
 
 	public void aceptarRegistroPermiso() {
-		explicitWait(5, messageGuardarPermisoLocator);
+		explicitWait(8, messageGuardarPermisoLocator);
 		if (getText(messageGuardarPermisoLocator).equals("El permiso se ha registrado correctamente.")) {
-															
+			screenshot.CapturaImagenen();
 			click(buttonAceptarLocator);	
-			System.out.println("The permission has been saved successfully");	
+			log.logInfo("PermissionRecordPage","El permiso se guardo correctamente");
 		
 		} else {
-			
-			System.out.println("The permission has not been saved correctly");	
+			screenshot.CapturaImagenen();
+			log.logInfo("PermissionRecordPage","El permiso no se guardo correctamente o no se mostro el mensaje");	
 		
 		}
 	}

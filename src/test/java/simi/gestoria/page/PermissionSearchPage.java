@@ -40,6 +40,7 @@ public class PermissionSearchPage extends Base {
 	String seleccionar;
 	String solicitudIngresosPath;
 	String buttonDetallePath;
+	String buttonEditarPath;
 	String buttonEliminarPath;
 	
 	Screenshot screenshot =  new Screenshot(driver);
@@ -94,6 +95,7 @@ public class PermissionSearchPage extends Base {
 		
 		if (option.equals("gestorEstatus")) {
 			click(plusSymbolLocator);
+			screenshot.CapturaImagenen();
 			explicitWait(5, listLocator);
 			list = findElements(listLocator).size()-1;
 			i +=1;
@@ -105,6 +107,7 @@ public class PermissionSearchPage extends Base {
 		
 		} else if (option.equals("permiso")) {
 			click(plusSymbolLocator);
+			screenshot.CapturaImagenen();
 			explicitWait(5, listLocator);
 			list = findElements(listLocator).size();
 			i +=1;
@@ -126,35 +129,35 @@ public class PermissionSearchPage extends Base {
 	public void optionsTablePermisos(String optionTablePermisos,String solicitudIngresos) {
 		boolean exit = false;
 		explicitWait(5, pagesPermisosLocator);
-		for (int p = 0; p <= findElements(rowsPermisosLocator).size(); p++) {
-			
+		int pages = findElements(rowsPermisosLocator).size();
+		for (int p = 1; p <= pages; p++) {
 			explicitWait(5, rowsPermisosLocator);
 			for (int r = 1; r <= findElements(rowsPermisosLocator).size(); r++) {
 				solicitudIngresosPath = "//table[@id='tblPermisos']/tbody/tr[" + r + "]/td[2]";
 				By solicitudIngresosLocator = By.xpath(solicitudIngresosPath);
-		
+				
 				if (getText(solicitudIngresosLocator).equals(solicitudIngresos)) {
+					log.logInfo("PermissionRecordPage","-- El permiso se encontro en la pagina " + p + " fila " + r );
 					optionTablePermisos(optionTablePermisos,r);
 					exit = true;
 					break;
 				
 				}else {
-					System.out.println("No se encontro el permiso");
+					log.logInfo("PermissionRecordPage","El permiso no se encontro en la pagina " + p + " fila " + r );
 				}
 			}
 			
 			if (exit==true) {	
 				break;
 			
-			}else {
-				/*
-				 * páginas = 10
-				 * p=10
-				 * 
-				 * si páginas==p
-				 * */
+			}else if (p < pages) {
 				click(buttonNextLocator);
+			
+			}else if (p == pages) {
+				log.logInfo("PermissionSearchPage", "El permiso no se encontro en las paginas existentes");
 			}
+				
+			
 		}
 	}
 	
@@ -165,20 +168,26 @@ public class PermissionSearchPage extends Base {
 			buttonDetallePath = "//table[@id='tblPermisos']/tbody/tr[ " + r + "]/td[6]/input";
 			By buttonDetalleLocator = By.xpath(buttonDetallePath);
 			click(buttonDetalleLocator);
+			log.logInfo("PermissionSearchPage", "Opcion detalle");
 			explicitWait(5, buttonCerrarLocator);
-	
+			screenshot.CapturaImagenen();
 			
 		}else if (optionTablePermisos.equals("editar")) {
-			//click(buttonEditarLocator);
+			buttonEditarPath = "//table[@id='tblPermisos']/tbody/tr[ " + r + "]/td[7]/a";
+			By buttonEditarLocator = By.xpath(buttonEditarPath);
+			click(buttonEditarLocator);
+			log.logInfo("PermissionSearchPage", "Opcion detalle");
+			screenshot.CapturaImagenen();
 		
 		}else if (optionTablePermisos.equals("eliminar")) {
-			
 			buttonEliminarPath = "//table[@id='tblPermisos']/tbody/tr[ " + r + "]/td[8]/a";
 			By buttonEliminarLocator = By.xpath(buttonEliminarPath);
+			screenshot.CapturaImagenen();
 			click(buttonEliminarLocator);
-		
-		
+			log.logInfo("PermissionSearchPage", "Opcion eliminar");
+			screenshot.CapturaImagenen();
 		}
-	return 	documento;
+	
+		return 	documento;
 	}
 }

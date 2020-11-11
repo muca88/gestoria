@@ -39,16 +39,14 @@ public class Gestoria_Test {
   @Test
   public void Gestoria() throws Exception {
 	  dataSheet = new DataSheet();
-	  //ScreenRecorderUtil.startRecord("Gestoria");
+	  ScreenRecorderUtil.startRecord("Gestoria");
 	  //Ingresar usuario y contraseña
 	  registerPage = new RegisterPage(driver);
 	  registerPage.registerUser(dataSheet.getCellValue(1, 1),dataSheet.getCellValue(2, 1));
-	  /*
 	  //Registrar unidad de negocio
-	  applicationRecord = new ApplicationRecordPage(driver);
+	  /*applicationRecord = new ApplicationRecordPage(driver);
 	  applicationRecord.selectionOptionRegistroSolicitud();
-	  applicationRecord.applicationRecord(dataSheet.getCellValue(4, 1));
-	  */
+	  applicationRecord.applicationRecord(dataSheet.getCellValue(4, 1));*/
 	  //Permisos por sucursal
 	  permissionSearchPage = new PermissionSearchPage(driver);
 	  permissionSearchPage.selectionOptionBusquedaPermisoSucursal();
@@ -63,7 +61,20 @@ public class Gestoria_Test {
 	  permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(10, 1));
 	  permissionRecordPage = new PermissionRecordPage(driver);
 	  permissionRecordPage.addPermission();
-	  //ScreenRecorderUtil.stopRecord();
+	  //Detalle Permisos
+	  //(11,1) detallePermisos
+	  permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(11, 1));
+	  //Opciones de Permiso
+	  //Detalle
+	  //(55,1) Detalle -- (56,1) Editar -- (57,1) Eliminar
+	  //(19,1) Permiso
+	  permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(55, 1), dataSheet.getCellValue(19, 1));
+	  //Editar
+	  permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(56, 1), dataSheet.getCellValue(19, 1));
+	  //Eliminar
+	  permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(11, 1));
+	  permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(57, 1), dataSheet.getCellValue(19, 1));
+	  ScreenRecorderUtil.stopRecord();
   
   }
 

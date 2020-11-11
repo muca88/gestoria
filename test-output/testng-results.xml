@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="47793" started-at="2020-11-09T23:43:08Z" finished-at="2020-11-09T23:43:56Z">
+  <suite name="Default suite" duration-ms="59995" started-at="2020-11-11T17:58:52Z" finished-at="2020-11-11T17:59:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="47793" started-at="2020-11-09T23:43:08Z" finished-at="2020-11-09T23:43:56Z">
+    <test name="Default test" duration-ms="59995" started-at="2020-11-11T17:58:52Z" finished-at="2020-11-11T17:59:52Z">
       <class name="simi.gestoria.test.Gestoria_Test">
-        <test-method status="PASS" signature="setup()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="setup" is-config="true" duration-ms="21900" started-at="2020-11-09T17:43:08Z" finished-at="2020-11-09T17:43:30Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="setup" is-config="true" duration-ms="9476" started-at="2020-11-11T11:58:52Z" finished-at="2020-11-11T11:59:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="Gestoria()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="Gestoria" duration-ms="25875" started-at="2020-11-09T17:43:30Z" finished-at="2020-11-09T17:43:56Z">
+        <test-method status="PASS" signature="Gestoria()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="Gestoria" duration-ms="50506" started-at="2020-11-11T11:59:02Z" finished-at="2020-11-11T11:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Gestoria -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-11-09T17:43:56Z" finished-at="2020-11-09T17:43:56Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:simi.gestoria.test.Gestoria_Test@2a2d45ba]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-11-11T11:59:52Z" finished-at="2020-11-11T11:59:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
