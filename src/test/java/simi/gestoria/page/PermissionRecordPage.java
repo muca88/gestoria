@@ -128,7 +128,6 @@ public class PermissionRecordPage extends PermissionSearchPage {
 	}
 			
 	public void ingresoPagina() {
-		log = new Log();
 		explicitWait(5, titleLocator);
 		if (isDisplayed(titleLocator)) {
 			log.logInfo("PermissionRecordPage","Ingreso a " + getText(titleLocator));

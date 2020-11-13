@@ -46,13 +46,11 @@ public class PermissionSearchPage extends Base {
 	Screenshot screenshot =  new Screenshot(driver);
 	
 	public void selectionOptionBusquedaPermisoSucursal() {
-		log = new Log();
 		click(optionPermissionsRequestLocator);
 		log.logInfo("PermissionSearchPage", "Opcion permisos por sucursal");
 	}
 	
 	public void selectionOptionGestorPermiso(String optionTable) throws Exception  {
-		log = new Log();
 		boolean exit = false;
 		explicitWait(5, rowsLocator);
 		int pages = numberItems(numberPageLocator);

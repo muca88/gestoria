@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 import simi.gestoria.base.Base;
 import simi.gestoria.page.ApplicationRecordPage;
 import simi.gestoria.page.AssignManagerStatusPage;
+import simi.gestoria.page.PermissionHistoryPage;
 import simi.gestoria.page.PermissionRecordPage;
 import simi.gestoria.page.PermissionSearchPage;
 import simi.gestoria.page.RegisterPage;
@@ -26,6 +27,7 @@ public class Gestoria_Test {
 	PermissionRecordPage permissionRecordPage;
 	PermissionSearchPage permissionSearchPage;
 	AssignManagerStatusPage assignManagerStatusPage;
+	PermissionHistoryPage permissionHistoryPage;
 	
   @BeforeClass
   public void setup() {
@@ -39,14 +41,14 @@ public class Gestoria_Test {
   @Test
   public void Gestoria() throws Exception {
 	  dataSheet = new DataSheet();
-	  ScreenRecorderUtil.startRecord("Gestoria");
+	  //ScreenRecorderUtil.startRecord("Gestoria");
 	  //Ingresar usuario y contraseña
 	  registerPage = new RegisterPage(driver);
 	  registerPage.registerUser(dataSheet.getCellValue(1, 1),dataSheet.getCellValue(2, 1));
 	  //Registrar unidad de negocio
-	  /*applicationRecord = new ApplicationRecordPage(driver);
+	  applicationRecord = new ApplicationRecordPage(driver);
 	  applicationRecord.selectionOptionRegistroSolicitud();
-	  applicationRecord.applicationRecord(dataSheet.getCellValue(4, 1));*/
+	  applicationRecord.applicationRecord(dataSheet.getCellValue(4, 1));
 	  //Permisos por sucursal
 	  permissionSearchPage = new PermissionSearchPage(driver);
 	  permissionSearchPage.selectionOptionBusquedaPermisoSucursal();
@@ -72,14 +74,19 @@ public class Gestoria_Test {
 	  //Editar
 	  permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(56, 1), dataSheet.getCellValue(19, 1));
 	  //Eliminar
-	  permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(11, 1));
-	  permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(57, 1), dataSheet.getCellValue(19, 1));
-	  ScreenRecorderUtil.stopRecord();
+	  //permissionSearchPage.selectionOptionGestorPermiso(dataSheet.getCellValue(11, 1));
+	  //permissionRecordPage.optionsPerrmission(dataSheet.getCellValue(57, 1), dataSheet.getCellValue(19, 1));
+	  //ScreenRecorderUtil.stopRecord();
+	  //Historial de Permisos
+	  permissionHistoryPage = new PermissionHistoryPage(driver);
+	  permissionHistoryPage.selectionOptionBusquedaPermisoSucursal();
+	  permissionHistoryPage.permissionHistory();
   
   }
 
   @AfterClass
   public void afterClass() {
+	  driver.close();
   }
 
 }

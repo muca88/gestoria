@@ -1,87 +1,92 @@
-2020-11-11 11:59:03,448 - RegisterPage -INFO - Captura de usuario
-2020-11-11 11:59:03,607 - RegisterPage -INFO - Captura de contraseña
-2020-11-11 11:59:07,667 - RegisterPage -INFO - Inicio de sesion
-2020-11-11 11:59:07,738 - RegisterPage -INFO - Ingreso a gestoria
-2020-11-11 11:59:09,883 - PermissionSearchPage -INFO - Opcion permisos por sucursal
-2020-11-11 11:59:10,753 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
-2020-11-11 11:59:12,435 - PermissionSearchPage -INFO - Opcion gestor estatus
-2020-11-11 11:59:13,118 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
-2020-11-11 11:59:13,925 - AssignManagerStatusPage -INFO - Captura gestor
-2020-11-11 11:59:14,161 - AssignManagerStatusPage -INFO - Captura estatus
-2020-11-11 11:59:16,130 - AssignManagerStatusPage -INFO - Opcion regresar
-2020-11-11 11:59:16,361 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
-2020-11-11 11:59:17,111 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
-2020-11-11 11:59:18,424 - PermissionSearchPage -INFO - Opcion permiso
-2020-11-11 11:59:19,030 - PermissionRecordPage -INFO - Ingreso a Registro de permiso
-2020-11-11 11:59:20,440 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
-2020-11-11 11:59:20,591 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
-2020-11-11 11:59:20,705 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
-2020-11-11 11:59:21,505 - PermissionRecordPage -INFO - documentoPermiso -- Captura folio
-2020-11-11 11:59:21,649 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha
-2020-11-11 11:59:21,809 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha vigencia
-2020-11-11 11:59:22,053 - PermissionRecordPage -INFO - documentoPermiso -- Captura tipo documento
-2020-11-11 11:59:22,201 - PermissionRecordPage -INFO - documentoPermiso -- Captura rfc
-2020-11-11 11:59:22,383 - PermissionRecordPage -INFO - documentoPermiso -- Captura razon social
-2020-11-11 11:59:22,523 - PermissionRecordPage -INFO - documentoPermiso -- Captura responsiva
-2020-11-11 11:59:22,620 - PermissionRecordPage -INFO - documentoPermiso -- Captura documento
-2020-11-11 11:59:23,273 - PermissionRecordPage -INFO - recibo -- Opcion recibo
-2020-11-11 11:59:23,451 - PermissionRecordPage -INFO - recibo -- Captura folio
-2020-11-11 11:59:23,722 - PermissionRecordPage -INFO - recibo -- Captura tipo de documento
-2020-11-11 11:59:23,852 - PermissionRecordPage -INFO - recibo -- Captura importe
-2020-11-11 11:59:23,993 - PermissionRecordPage -INFO - recibo -- Captura fecha
-2020-11-11 11:59:24,132 - PermissionRecordPage -INFO - recibo -- Captura metodo de pago
-2020-11-11 11:59:24,212 - PermissionRecordPage -INFO - recibo -- Captura documento
-2020-11-11 11:59:24,725 - PermissionRecordPage -INFO - factura -- Opcion factura
-2020-11-11 11:59:24,870 - PermissionRecordPage -INFO - factura -- Captura folio
-2020-11-11 11:59:25,148 - PermissionRecordPage -INFO - factura -- Captura tipo de documento
-2020-11-11 11:59:25,293 - PermissionRecordPage -INFO - factura -- Captura importe
-2020-11-11 11:59:25,462 - PermissionRecordPage -INFO - factura -- Captura fecha
-2020-11-11 11:59:25,586 - PermissionRecordPage -INFO - factura -- Captura metodo de pago
-2020-11-11 11:59:25,663 - PermissionRecordPage -INFO - factura -- Captura documento
-2020-11-11 11:59:26,138 - PermissionRecordPage -INFO - Captura observasiones
-2020-11-11 11:59:27,331 - PermissionRecordPage -INFO - Captura estatus
-2020-11-11 11:59:27,844 - PermissionRecordPage -INFO - Opcion guardar
-2020-11-11 11:59:31,259 - PermissionRecordPage -INFO - El permiso se guardo correctamente
-2020-11-11 11:59:31,671 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
-2020-11-11 11:59:31,793 - PermissionSearchPage -INFO - Opcion detalle de permiso
-2020-11-11 11:59:32,831 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
-2020-11-11 11:59:32,948 - PermissionSearchPage -INFO - Opcion detalle
-2020-11-11 11:59:34,333 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
-2020-11-11 11:59:34,463 - PermissionSearchPage -INFO - Opcion detalle
-2020-11-11 11:59:35,671 - PermissionRecordPage -INFO - Opcion cerrar
-2020-11-11 11:59:35,675 - PermissionRecordPage -INFO - El permiso no tiene informacion guardada
-2020-11-11 11:59:35,863 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
-2020-11-11 11:59:37,016 - PermissionSearchPage -INFO - Opcion detalle
-2020-11-11 11:59:37,626 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
-2020-11-11 11:59:37,800 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
-2020-11-11 11:59:37,891 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
-2020-11-11 11:59:38,504 - PermissionRecordPage -INFO - documentoPermiso -- Captura folio
-2020-11-11 11:59:38,643 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha
-2020-11-11 11:59:38,796 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha vigencia
-2020-11-11 11:59:39,017 - PermissionRecordPage -INFO - documentoPermiso -- Captura tipo documento
-2020-11-11 11:59:39,171 - PermissionRecordPage -INFO - documentoPermiso -- Captura rfc
-2020-11-11 11:59:39,332 - PermissionRecordPage -INFO - documentoPermiso -- Captura razon social
-2020-11-11 11:59:39,476 - PermissionRecordPage -INFO - documentoPermiso -- Captura responsiva
-2020-11-11 11:59:39,569 - PermissionRecordPage -INFO - documentoPermiso -- Captura documento
-2020-11-11 11:59:40,072 - PermissionRecordPage -INFO - recibo -- Opcion recibo
-2020-11-11 11:59:40,229 - PermissionRecordPage -INFO - recibo -- Captura folio
-2020-11-11 11:59:40,513 - PermissionRecordPage -INFO - recibo -- Captura tipo de documento
-2020-11-11 11:59:40,660 - PermissionRecordPage -INFO - recibo -- Captura importe
-2020-11-11 11:59:40,838 - PermissionRecordPage -INFO - recibo -- Captura fecha
-2020-11-11 11:59:40,959 - PermissionRecordPage -INFO - recibo -- Captura metodo de pago
-2020-11-11 11:59:41,047 - PermissionRecordPage -INFO - recibo -- Captura documento
-2020-11-11 11:59:41,543 - PermissionRecordPage -INFO - factura -- Opcion factura
-2020-11-11 11:59:41,669 - PermissionRecordPage -INFO - factura -- Captura folio
-2020-11-11 11:59:41,910 - PermissionRecordPage -INFO - factura -- Captura tipo de documento
-2020-11-11 11:59:42,042 - PermissionRecordPage -INFO - factura -- Captura importe
-2020-11-11 11:59:42,180 - PermissionRecordPage -INFO - factura -- Captura fecha
-2020-11-11 11:59:42,314 - PermissionRecordPage -INFO - factura -- Captura metodo de pago
-2020-11-11 11:59:42,400 - PermissionRecordPage -INFO - factura -- Captura documento
-2020-11-11 11:59:42,909 - PermissionRecordPage -INFO - Captura observasiones
-2020-11-11 11:59:44,012 - PermissionRecordPage -INFO - Captura estatus
-2020-11-11 11:59:44,534 - PermissionRecordPage -INFO - Opcion guardar
-2020-11-11 11:59:50,101 - PermissionRecordPage -INFO - El permiso se guardo correctamente
-2020-11-11 11:59:50,678 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
-2020-11-11 11:59:50,771 - PermissionSearchPage -INFO - Opcion detalle de permiso
-2020-11-11 11:59:51,484 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
-2020-11-11 11:59:52,017 - PermissionSearchPage -INFO - Opcion eliminar
+2020-11-12 19:32:42,856 - RegisterPage -INFO - Captura de usuario
+2020-11-12 19:32:43,001 - RegisterPage -INFO - Captura de contraseña
+2020-11-12 19:32:47,693 - RegisterPage -INFO - Inicio de sesion
+2020-11-12 19:32:47,741 - RegisterPage -INFO - Ingreso a gestoria
+2020-11-12 19:32:49,461 - ApplicationRecordPage -INFO - Opcion registro solicitud
+2020-11-12 19:32:49,991 - ApplicationRecordPage -INFO - Ingresa a registro solicitud
+2020-11-12 19:32:50,075 - ApplicationRecordPage -INFO - Captura de unidad de negocio
+2020-11-12 19:32:50,178 - ApplicationRecordPage -INFO - Selecciona boton buscar unidad de negocio
+2020-11-12 19:32:51,399 - ApplicationRecordPage -INFO - Selecciona tipo de solicitud
+2020-11-12 19:32:51,864 - ApplicationRecordPage -INFO - Selecciona boton guardar registro solicitud de negocio
+2020-11-12 19:32:52,504 - ApplicationRecordPage -INFO - La solicitud se guardo exitosamente
+2020-11-12 19:32:54,302 - PermissionSearchPage -INFO - Opcion permisos por sucursal
+2020-11-12 19:32:54,883 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-12 19:32:55,759 - PermissionSearchPage -INFO - Opcion gestor estatus
+2020-11-12 19:32:56,307 - ApplicationRecordPage -INFO - Ingreso a la opcion Registro solicitud unidad de negocio
+2020-11-12 19:32:56,915 - AssignManagerStatusPage -INFO - Captura gestor
+2020-11-12 19:32:57,115 - AssignManagerStatusPage -INFO - Captura estatus
+2020-11-12 19:32:57,905 - AssignManagerStatusPage -INFO - Opcion regresar
+2020-11-12 19:32:58,087 - AssignManagerStatusPage -INFO - Se regresa a la opción Búsqueda permisos por sucursal
+2020-11-12 19:32:58,719 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-12 19:32:59,823 - PermissionSearchPage -INFO - Opcion permiso
+2020-11-12 19:33:00,383 - PermissionRecordPage -INFO - Ingreso a Registro de permiso
+2020-11-12 19:33:01,584 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
+2020-11-12 19:33:01,716 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
+2020-11-12 19:33:01,811 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
+2020-11-12 19:33:02,420 - PermissionRecordPage -INFO - documentoPermiso -- Captura folio
+2020-11-12 19:33:02,546 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha
+2020-11-12 19:33:02,663 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha vigencia
+2020-11-12 19:33:02,860 - PermissionRecordPage -INFO - documentoPermiso -- Captura tipo documento
+2020-11-12 19:33:02,993 - PermissionRecordPage -INFO - documentoPermiso -- Captura rfc
+2020-11-12 19:33:03,133 - PermissionRecordPage -INFO - documentoPermiso -- Captura razon social
+2020-11-12 19:33:03,270 - PermissionRecordPage -INFO - documentoPermiso -- Captura responsiva
+2020-11-12 19:33:03,345 - PermissionRecordPage -INFO - documentoPermiso -- Captura documento
+2020-11-12 19:33:03,852 - PermissionRecordPage -INFO - recibo -- Opcion recibo
+2020-11-12 19:33:04,001 - PermissionRecordPage -INFO - recibo -- Captura folio
+2020-11-12 19:33:04,203 - PermissionRecordPage -INFO - recibo -- Captura tipo de documento
+2020-11-12 19:33:04,321 - PermissionRecordPage -INFO - recibo -- Captura importe
+2020-11-12 19:33:04,438 - PermissionRecordPage -INFO - recibo -- Captura fecha
+2020-11-12 19:33:04,555 - PermissionRecordPage -INFO - recibo -- Captura metodo de pago
+2020-11-12 19:33:04,633 - PermissionRecordPage -INFO - recibo -- Captura documento
+2020-11-12 19:33:05,088 - PermissionRecordPage -INFO - factura -- Opcion factura
+2020-11-12 19:33:05,193 - PermissionRecordPage -INFO - factura -- Captura folio
+2020-11-12 19:33:05,390 - PermissionRecordPage -INFO - factura -- Captura tipo de documento
+2020-11-12 19:33:05,496 - PermissionRecordPage -INFO - factura -- Captura importe
+2020-11-12 19:33:05,616 - PermissionRecordPage -INFO - factura -- Captura fecha
+2020-11-12 19:33:05,730 - PermissionRecordPage -INFO - factura -- Captura metodo de pago
+2020-11-12 19:33:05,805 - PermissionRecordPage -INFO - factura -- Captura documento
+2020-11-12 19:33:06,231 - PermissionRecordPage -INFO - Captura observasiones
+2020-11-12 19:33:07,110 - PermissionRecordPage -INFO - Captura estatus
+2020-11-12 19:33:07,624 - PermissionRecordPage -INFO - Opcion guardar
+2020-11-12 19:33:09,608 - PermissionRecordPage -INFO - El permiso se guardo correctamente
+2020-11-12 19:33:09,937 - PermissionSearchPage -INFO - -- La solicitud se encontro en la pagina 1 fila 1
+2020-11-12 19:33:10,057 - PermissionSearchPage -INFO - Opcion detalle de permiso
+2020-11-12 19:33:10,757 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
+2020-11-12 19:33:10,833 - PermissionSearchPage -INFO - Opcion detalle
+2020-11-12 19:33:12,061 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
+2020-11-12 19:33:12,252 - PermissionSearchPage -INFO - Opcion detalle
+2020-11-12 19:33:13,401 - PermissionRecordPage -INFO - Opcion cerrar
+2020-11-12 19:33:13,404 - PermissionRecordPage -INFO - El permiso no tiene informacion guardada
+2020-11-12 19:33:13,559 - PermissionRecordPage -INFO - -- El permiso se encontro en la pagina 1 fila 1
+2020-11-12 19:33:14,115 - PermissionSearchPage -INFO - Opcion detalle
+2020-11-12 19:33:14,643 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura folio
+2020-11-12 19:33:14,755 - PermissionRecordPage -INFO - documentoInicioTramite -- Captura fecha
+2020-11-12 19:33:14,846 - PermissionRecordPage -INFO - documentoInicioTramite -- Archivo guardado
+2020-11-12 19:33:15,332 - PermissionRecordPage -INFO - documentoPermiso -- Captura folio
+2020-11-12 19:33:15,447 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha
+2020-11-12 19:33:15,562 - PermissionRecordPage -INFO - documentoPermiso -- Captura fecha vigencia
+2020-11-12 19:33:15,740 - PermissionRecordPage -INFO - documentoPermiso -- Captura tipo documento
+2020-11-12 19:33:15,857 - PermissionRecordPage -INFO - documentoPermiso -- Captura rfc
+2020-11-12 19:33:15,981 - PermissionRecordPage -INFO - documentoPermiso -- Captura razon social
+2020-11-12 19:33:16,090 - PermissionRecordPage -INFO - documentoPermiso -- Captura responsiva
+2020-11-12 19:33:16,161 - PermissionRecordPage -INFO - documentoPermiso -- Captura documento
+2020-11-12 19:33:16,591 - PermissionRecordPage -INFO - recibo -- Opcion recibo
+2020-11-12 19:33:16,703 - PermissionRecordPage -INFO - recibo -- Captura folio
+2020-11-12 19:33:16,888 - PermissionRecordPage -INFO - recibo -- Captura tipo de documento
+2020-11-12 19:33:16,995 - PermissionRecordPage -INFO - recibo -- Captura importe
+2020-11-12 19:33:17,113 - PermissionRecordPage -INFO - recibo -- Captura fecha
+2020-11-12 19:33:17,225 - PermissionRecordPage -INFO - recibo -- Captura metodo de pago
+2020-11-12 19:33:17,297 - PermissionRecordPage -INFO - recibo -- Captura documento
+2020-11-12 19:33:17,726 - PermissionRecordPage -INFO - factura -- Opcion factura
+2020-11-12 19:33:17,827 - PermissionRecordPage -INFO - factura -- Captura folio
+2020-11-12 19:33:18,010 - PermissionRecordPage -INFO - factura -- Captura tipo de documento
+2020-11-12 19:33:18,117 - PermissionRecordPage -INFO - factura -- Captura importe
+2020-11-12 19:33:18,235 - PermissionRecordPage -INFO - factura -- Captura fecha
+2020-11-12 19:33:18,340 - PermissionRecordPage -INFO - factura -- Captura metodo de pago
+2020-11-12 19:33:18,412 - PermissionRecordPage -INFO - factura -- Captura documento
+2020-11-12 19:33:18,835 - PermissionRecordPage -INFO - Captura observasiones
+2020-11-12 19:33:19,695 - PermissionRecordPage -INFO - Captura estatus
+2020-11-12 19:33:20,155 - PermissionRecordPage -INFO - Opcion guardar
+2020-11-12 19:33:23,604 - PermissionRecordPage -INFO - El permiso se guardo correctamente
+2020-11-12 19:33:24,217 - PermissionHistoryPage -INFO - Opcion historial de permisos
+2020-11-12 19:33:24,846 - PermissionHistoryPage -INFO - Opcion exportar excel
